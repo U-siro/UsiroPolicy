@@ -1,15 +1,53 @@
 # UsiroPolicy
-U-siro가 제공하는 모든 서비스에 적용되는 저작권 컨텐츠 약관입니다.
-저희는 각 국가의 게시중단 절차(DMCA, 게시중단 등)을 따르지 않고, 자체적인 절차를 사용합니다.
+This is an alternative of take down for U-siro services.
 
-# 게시중단 사유
-1. 저작권
-2. 명예훼손(단, 사실의 명예훼손은 제외.)
+Usiro servers isn't working with DMCA, so This new rules works for Usiro services.
 
-# 판단 기준
-1. 저작권자 확인 여부
-2. 독창성(다른 저작물을 허락없이 배낀 저작물의 경우 게시중단을 받지 않습니다)
-3. 업로더의 배포 의지
+## 1. Types
+"Take down" means make content unavailable on any countries.
 
-# 절차
-castarnet@protonmail.ch 로 메일을 보내 주세요.
+"Limit" means make content unavailable on one or more countries.
+
+"Notification" means adding text before content, worldwide.
+
+## 2. Rules
+### Copyright
+For copyright problem, We require the proof that you're a original author.
+
+Your entire requests will also published to public for 1 year.
+
+If confirmed, Requested Content will be "Take down" or "Limit", or "Notification", as you requested.
+### Fake news
+For fake news, We can't "Take down" or "Limit".
+
+You can request us a "Notification" for corrections.
+
+Your entire requests will also published to public for 1 year.
+
+This type of the takedown isn't requires any documents.
+
+If confirmed, "Notification" will works.
+### defamation of character
+Unfortunally, We can't "Take down", due to different regulations for countries.
+
+You need to proof that you're have rights to request it.
+
+**We do not accept "true" defamation of character. for it, keep reading.**
+
+If accepted, It will works like:
+
+"Limit": South Korea
+
+"Notification: Japan, Australia, United States, German
+
+### "true" defamation of character
+Unfortunally, We can't "Take down", due to different regulations for countries.
+
+You need to proof that you're have rights to request it.
+
+If accepted, It will works like:
+
+"Limit": X
+
+"Notification: Japan, Australia, United States, German, South Korea
+
